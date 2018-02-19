@@ -412,55 +412,5 @@
 		"person": "Bharat Dawadi",
 		"mob": "9841592001",
 		"landline": "99418150"
-	},
-	{
-		"id": "57",
-		"organization": "NEEDS Nepal",
-		"person": "Bharat Dawadi",
-		"mob": "",
-		"landline": "99418150"
-	},
-	{
-		"id": "58",
-		"organization": "NEEDS Nepal",
-		"person": "Bharat Dawadi",
-		"mob": "9841592001",
-		"landline": "99418150"
-	},
-	{
-		"id": "59",
-		"organization": "NEEDS Nepal",
-		"person": "Bharat Dawadi",
-		"mob": "9841592001",
-		"landline": "99418150"
-},
-	{
-		"id": "60",
-		"organization": "NNSWA",
-		"person": "Himalaya",
-		"mob": "9841592001",
-		"landline": "99418150"
-},
-	{
-		"id": "61",
-		"organization": "NRCS Kanchanpur",
-		"person": "Manoj Prasad Upreti",
-		"mob": "9865651919",
-		"landline": "99523983"
-},
-	{
-		"id": "62",
-		"organization": "District administration office",
-		"person": "Neer bikram singh",
-		"mob": "9848725395",
-		"landline": "99523455"
-},
-	{
-		"id": "63",
-		"organization": "NRCS Kanchanpur/Blood Transfusion Center",
-		"person": "Narendra Dev Joshi",
-		"mob": "9848755851",
-		"landline": "99523983"
-}
-
+	}
 ]
